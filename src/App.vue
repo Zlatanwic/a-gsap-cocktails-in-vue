@@ -2,7 +2,8 @@
     <main>
         <Navbar/>
         <Hero />
-        <div class="h-dvh bg-black"></div>
+        <cockTails/>
+        <!-- <div class="h-dvh bg-black"></div> -->
     </main>
     
 
@@ -12,8 +13,10 @@
 import { onMounted } from 'vue'
 import { ScrollTrigger ,SplitText } from 'gsap/all';
 
+
 import Navbar from './components/Navbar.vue'
 import Hero from './components/Hero.vue'
+import cockTails from './components/cockTails.vue';
 
 
 </script>
