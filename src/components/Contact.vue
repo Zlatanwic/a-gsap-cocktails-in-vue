@@ -49,7 +49,7 @@ onMounted(()=>{
             start:'top 80%',
             end:'bottom 20%',
             scrub:1,
-            markers: true
+            // markers: true
         }
     });
 
