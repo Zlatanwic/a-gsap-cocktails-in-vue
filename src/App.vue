@@ -6,6 +6,8 @@
         <!-- <div class="h-dvh bg-black"></div> -->
         <About/>
         <Art/>
+         <!-- <Artana/> -->
+        <MenuPart/>
     </main>
     
 
@@ -21,7 +23,8 @@ import Hero from './components/Hero.vue'
 import cockTails from './components/cockTails.vue';
 import About from './components/About.vue';
 import Art from './components/Art.vue';
-
+import MenuPart from './components/MenuPart.vue';
+// import Artana from './components/Artana.vue';
 
 </script>
 
