@@ -8,6 +8,7 @@
         <Art/>
          <!-- <Artana/> -->
         <MenuPart/>
+        <Contact/>
     </main>
     
 
@@ -25,6 +26,7 @@ import About from './components/About.vue';
 import Art from './components/Art.vue';
 import MenuPart from './components/MenuPart.vue';
 // import Artana from './components/Artana.vue';
+import Contact from './components/Contact.vue';
 
 </script>
 
