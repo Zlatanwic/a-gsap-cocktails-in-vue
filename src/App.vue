@@ -5,6 +5,7 @@
         <cockTails/>
         <!-- <div class="h-dvh bg-black"></div> -->
         <About/>
+        <Art/>
     </main>
     
 
@@ -19,6 +20,7 @@ import Navbar from './components/Navbar.vue'
 import Hero from './components/Hero.vue'
 import cockTails from './components/cockTails.vue';
 import About from './components/About.vue';
+import Art from './components/Art.vue';
 
 
 </script>
